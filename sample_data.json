@@ -1,0 +1,28 @@
+[
+  {
+    "customerName": "Alice Smith",
+    "phoneNumber": "111-222-3333",
+    "status": "RECEIVED",
+    "garments": [
+      { "type": "Blouse", "quantity": 3, "pricePerItem": 6 },
+      { "type": "Dress", "quantity": 1, "pricePerItem": 15 }
+    ]
+  },
+  {
+    "customerName": "Bob Johnson",
+    "phoneNumber": "444-555-6666",
+    "status": "PROCESSING",
+    "garments": [
+      { "type": "Suit Jacket", "quantity": 1, "pricePerItem": 25 },
+      { "type": "Trousers", "quantity": 2, "pricePerItem": 10 }
+    ]
+  },
+  {
+    "customerName": "Charlie Davis",
+    "phoneNumber": "777-888-9999",
+    "status": "READY",
+    "garments": [
+      { "type": "Blanket", "quantity": 1, "pricePerItem": 30 }
+    ]
+  }
+]
